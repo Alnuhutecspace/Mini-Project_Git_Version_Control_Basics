@@ -94,3 +94,4 @@ Git is a free and open-source distributed version control system. It's widely us
 
 ![Add, Commit and Push](./img/07.%20Adding%20and%20Committing.png) 
 
+![Push to Origin Main](./img/08.%20Push%20to%20Origin%20Main.png)
