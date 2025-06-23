@@ -94,4 +94,71 @@ Git is a free and open-source distributed version control system. It's widely us
 
 ![Add, Commit and Push](./img/07.%20Adding%20and%20Committing.png) 
 
-![Push to Origin Main](./img/08.%20Push%20to%20Origin%20Main.png)
+![Push to Origin Main](./img/08.%20Push%20to%20Origin%20Main.png)  
+
+## Starting Tom and Jerry Collaboration 
+
+- **Step 1:** 
+Ensures git is installed in both machines, then Changing directory to the project folder and clone the central repo. 
+
+![Tom Clonning the Central Repo](./img/09.%20Tom%20Clonning%20the%20Central%20Repo.png) 
+
+![Jerry Clonning the Central Repo](./img/10.%20Jerry%20Clonning%20the%20Central%20Repo.png) 
+
+- **Step 2:** 
+Tom and Jerry pull the repo to get the latest changes just to be sure.
+![Tom Pull](./img/11.%20Tom%20Pull.png) 
+
+![Jerry Pull](./img/12.%20Jerry%20Pull.png) 
+
+- **Step 3:** 
+Tom and Jerry create new branch for making individual changes on the central repo. 
+
+![Tom Branch](./img/13.%20Tom%20Branch.png) 
+
+![](./img/14.%20Jerry%20Branch.png) 
+
+- **Step 4:**
+Tom and Jerry switching to the branch proper to carried out the update concurrently. 
+
+![Tom Checkout](./img/15.%20Tom%20Checkout.png)
+
+![](./img/16.%20Jerry%20Checkout.png) 
+
+- **Step 5:** 
+Tom and Jerry makes changes to index.html by updating the navigation bar and also adding contact informations. 
+
+![Tom Update](./img/17.%20Tom%20Update.png)
+
+![Jerry Update](./img/18.%20Jerry%20Update.png)
+
+- **Step 6:** 
+They both add and commit the change to index.html.
+
+![Tom Add and Commit](./img/19.%20Tom%20Add%20and%20Commit.png) 
+
+![Jerry Add and Commit](./img/20.%20Jerry%20Add%20and%20Commit.png) 
+
+- **Step 7:**: 
+Tom checkout main to switch to branch main.
+
+![Tom Checkout](./img/21.%20Tom%20Checkout%20Main.png)
+
+= **Step 8:**
+
+Tom was the first push to GitHub server and pull request from there. It was check for conflict before merging. 
+
+![Tom Push and Pull Request](./img/22.%20Tom%20and%20Pull%20Request.png) 
+
+- **Step 9:**
+Jerry updates is branch with latest main by checking out and also pull from main. 
+
+![Jerry Checkout and Pull](./img/23%20Jerry%20Checkout%20and%20Pull.png) 
+
+- **Step 10:** 
+Since there was no conflict Jerry after pushing a pull request was carried out.
+
+![Jerry Push and Pull Request](./img/24.%20Jerry%20Push%20and%20Pull%20Request.png)
+
+Both sets of changes (Tom’s and Jerry’s) are merged into the main project.
+index.html now contains both the updated navigation bar and the new contact info in the footer.
