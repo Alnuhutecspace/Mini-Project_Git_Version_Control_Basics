@@ -161,4 +161,4 @@ Since there was no conflict Jerry after pushing a pull request was carried out.
 ![Jerry Push and Pull Request](./img/24.%20Jerry%20Push%20and%20Pull%20Request.png)
 
 Both sets of changes (Tom’s and Jerry’s) are merged into the main project.
-index.html now contains both the updated navigation bar and the new contact info in the footer.
+index.html now contains both the updated navigation bar and the new contact info in the footer. 
